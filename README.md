@@ -1,2 +1,2 @@
-# quizuygulamasi
-Quiz uygulaması yapabileceğiniz bir uygulama
+# quizapplication
+Quiz application
